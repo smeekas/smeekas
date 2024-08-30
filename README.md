@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smeet kachhadiya</h1>
 <h3 align="center">software engineer by profession, software engineer by passion.</h3>
 
-<p>Currently working in ReactJS. Interested in Java, spring-boot and system design.</p>
+<p>Currently working with ReactJS, TypeScript. Interested in Java, spring-boot and system design.</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smeekas&show_icons=true&locale=en&layout=compact" alt="smeekas most used languages"/>
 
